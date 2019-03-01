@@ -1,0 +1,147 @@
+{
+  "Bardiani": {
+      "descrizione": "Gli uomini di valle del Nord di nobili origini, seguaci di Bard molto alti con braccia e gambe robuste.",
+      "nomi maschili": ["Aegir", "Agmund", "Agnarr"],
+      "nomi femminili": ["Aldis", "Aldrif", "Asfrid"],
+      "tenore": "Prospero",
+      "equip_bonus": "Un mantello da viaggiatore foderato di pelliccia, attrezzatura da viaggio adatta alla stagione in corso,
+        un giaciglio, uno zaino o due borse da sella, stivali comodi, 5d6 argento.
+        Due oggetti a scelta tra: una tenda, coperte extra, corda, un giocattolo magico, un pettine d'argento,
+        un amuleto con piuma di corvo, una bottiglia di vino del Dorwinion.",
+      "eta": "16-30",
+      "taglia": "Media",
+      "velocita": "9m",
+      "linguaggi": ["Daliano"],
+      "tratti": ["+1 Costituzione, +1 a 2 caratteristiche a scelta",
+                  "Vista Limpida: competenza intuizione",
+                  "Virtu iniziale: 1 virtu bardiana a scelta"],
+      "sottorazze": null
+  },
+  "Beorniani": {
+      "descrizione": "Uomini coriacei con braccia e gambe muscolose, mantengono la pace sorvegliando le vie dei boschi,
+        seguaci di Beorn in mutapelle.",
+      "nomi maschili": ["Adalarn", "Ageric", "Agilfrid"],
+      "nomi femminili": ["Adosinda", "Amalfrida", "Amalina"],
+      "tenore": "Marziale",
+      "equip_bonus": "un mantello da viaggiatore dai colori sgargianti, attrezzatura da viaggio adatta alla stagione in corso,
+        uno zaino o due borse da sella, un coltellino da cintura, stivali, 3d6 argento.
+        Due oggetti a scelta tra: trapunta di ottima lana, un antico pugnale ricavato da artigli d'orso,
+        una collana di denti d'Orco, un pacchetto di deliziosi dolcetti al miele",
+      "eta": "16-30",
+      "taglia": "Media",
+      "velocita": "9m",
+      "linguaggi": ["Valle Anduin"],
+      "tratti": ["+1 Forza, +1 a 2 caratteristiche a scelta",
+                  "Rabbioso: competenza intimidire",
+                  "Virtu iniziale: 1 virtu beorniana a scelta"],
+      "sottorazze": null
+  },
+  "CavalieriRohan": {
+      "descrizione": "Uomini del Riddermark, bellicosi, alti, di pelle chiara e dai capelli biondi.
+        Grandi cavalieri legati alla terra e alle tradizioni",
+      "nomi maschili": ["Aldor", "Baldor", "Brego"],
+      "nomi femminili": ["Elfhild", "Eowyn", "Hild"],
+      "tenore": "Marziale",
+      "equip_bonus": "un cavallo da sella, un mantello da viaggiatore dal colore vivace,
+        attrezzatura da viaggio adatta alla stazione in corso, uno zaino o due borse da sella, un coltellino da cintura,
+        stivali, 2d6 argento. Due oggetti a scelta tra: un set di scacchi, un corno per bere, un elmo decorato,
+        una fibbia decorativa per il mantello, un bracciale di bronzo",
+      "eta": "16-30",
+      "taglia": "Media",
+      "velocita": "9m",
+      "linguaggi": ["Rohan", "Ovestron", "Sindarin"],
+      "tratti": ["+1 Saggezza, +1 a 2 caratteristiche a scelta",
+                  "Signori dei cavalli: competenza addestrare animali",
+                  "Virtu iniziale: 1 virtu di rohan a scelta"],
+      "sottorazze": null
+  },
+  "Dunedain": {
+      "descrizione": "I raminghi discendenti dei Dunedain del nord, i re degli uomini che giunsero dall'Ovesturia.
+        I raminghi appaiono signorili e più alti della norma. Taciturni e bruschi nel comportamento proteggono il nord
+        dalle minaccie rimanendo nascosti alle popolazioni limitrofe ignare dei pericoli che li minacciano.",
+      "nomi maschili": ["Adrahil", "Amlaith", "Anardil"],
+      "nomi femminili": ["Girlaen", "Ioreth", "Ivorwen"],
+      "tenore": "Marziale",
+      "equip_bonus": "un mantello scuro con cappuccio, attrezzatura da viaggio adatta alla stagione in corso,
+        uno zaino, un coltellino da cintura, stivali, 3d6 argento. Due oggetti a scelta tra: un anello o gioiello della stirpe,
+        una pipa e una borsa di erba-pipa, una coperta di buona fattura, un cappello a tesa larga, un robusto bastone",
+      "eta": "18-60",
+      "taglia": "Media",
+      "velocita": "9m",
+      "linguaggi": ["Sindarin", "Ovestron"],
+      "tratti": ["+1 Saggezza e Costituzione, +1 a 2 caratteristiche a scelta",
+                  "Sapienza di Numenor: competenza Storia",
+                  "Allevato dalla natura: competenza storia",
+                  "Virtu iniziale: 1 virtu Dunedain a scelta"],
+      "sottorazze": null
+  },
+  "ElfiBoscoAtro": {
+      "descrizione": "guerrieri agili dediti alla protezione del loro reame nascosto, gentili ma tenaci.
+        diffidenti verso gli altri popoli sono combattenti incrollabili contro le ombre incombenti.
+        non si ammalano, invecchiano.",
+      "nomi maschili": ["Aerandir", "Amras", "Amroth"],
+      "nomi femminili": ["Finduilas", "Miriel", "Nimrodel"],
+      "tenore": "Marziale",
+      "equip_bonus": "un mantello da viaggiatore verde o grigio, attrezzatura da viaggio adatta alla stagione in corso,
+        uno zaino o due borse da sella, un coltellino da cintura, stivali, 3d6 argento. Due oggetti a scelta tra:
+        trapunta grigia, un otre di vino elfico, un arco corto e una faretra con 20 frecce, un gioiello bianco,
+        un coltello da caccia, uno strumento musicale",
+      "eta": "100-500",
+      "taglia": "Media",
+      "velocita": "9m",
+      "linguaggi": ["Lingua del bosco", "Sindarin"],
+      "tratti": ["+2 Destrezza, +1 Saggezza",
+                  "Visione Notturna: il buio diventa luce fioca, luca fioca 18m diventa luce",
+                  "Occhi da elfo: competenza percezione",
+                  "Sogni elfici: 4 ore per un riposo lungo, rimane sempre consapevole dei dintorni potendo tenere
+                    gli occhi aperti",
+                  "Strumenti di guerra: competenza con pugnali, lance, spade larghe, spade corte e archi corti",
+                  "Un sussurro tra le foglie: competenza furtivita, vantaggio in furtivita nella foresta
+                  e puo nascondersi se leggermente occultato dal fogliame"],
+      "sottorazze": null
+  },
+  "Hobbit": {
+      "descrizione": "Gli hobbit sono più bassi di statura degli uomini dai tratti giovanili e senza barba, spesso
+        scambiati per bambini. Sono un popolo allegro e di buon cuore, ma molto precisi e coraggiosi quando necessario",
+      "nomi maschili": ["Adalgrim", "Adelard", "Andwise"],
+      "nomi femminili": ["Adaldrida", "Adamanta", "Amaranth"],
+      "tenore": "Prospero",
+      "equip_bonus": "un mantello da viaggiatore foderato di pelliccia, attrezzatura da viaggio adatta alla stagione in corso,
+        un giaciglio, uno zaino o due borse da sella, 5d6 argento. Due oggetti a scelta tra: un buon bastone da passeggio,
+        pentole e padelle di fattura nanica, abbastanza fazzoletti per permettergli di superare le intemperie,
+        una pipa e una borsa di erba-pipa, un cuscino troppo imbottito, un piatto e posate da pic-nic,
+        inchiostro e pergamena per scrivere lettere a casa",
+      "eta": "25-60",
+      "taglia": "Piccola",
+      "velocita": "7,5m",
+      "linguaggi": ["Ovestron"],
+      "tratti": ["+2 Destrezza",
+                  "Tenacia: vantaggio tiri salvezza corruzione",
+                  "Agilita Hobbit: muoversi attraverso gli spazi di qualunque creatura piu grande",
+                  "Nobili occupazioni: competenza archi corti, strumenti da artigiano e uso della pipa.
+                    Una competenza a scelta tra: strumenti da mescitore, carpentiere, cartografo,
+                    cuoco, giardiniere, vasaio, fabbro, tessitore, intaglitore",
+                  "Elusivita Hobbit: competenza furtivita"],
+      "sottorazze": {
+        "Paloidi": ["+1 Intelligenza",
+                      "Studente antica sapienza: competenza sapienza e materiali dei calligrafi"],
+        "Pelopiedi": ["+1 Saggezza",
+                      "Discrezione: puo nascondersi quando viene oscurato da una creatura di almeno una tagli superiore"],
+        "Sturoi": ["+2 Costituzione"]
+      }
+  },
+  "Nani": {
+      "descrizione": "Una razza antica e riservata con tradizione sconosciute agli estranei. Sono tra i guerrieri piu formidabili
+        difficili da corrompere",
+      "nomi maschili": [],
+      "nomi femminili": [],
+      "tenore": "",
+      "equip_bonus": "",
+      "eta": "",
+      "taglia": "",
+      "velocita": "",
+      "linguaggi": [],
+      "tratti": [],
+      "sottorazze": []
+  }
+}

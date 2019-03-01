@@ -1,0 +1,15 @@
+Cultura Vuota
+
+"": {
+    "descrizione": "",
+    "nomi maschili": [],
+    "nomi femminili": [],
+    "tenore": "",
+    "equip_bonus": "",
+    "eta": "",
+    "taglia": "",
+    "velocita": "",
+    "linguaggi": [],
+    "tratti": [],
+    "sottorazze": []
+}
