@@ -2,8 +2,8 @@ Cultura Vuota
 
 "": {
     "descrizione": "",
-    "nomi maschili": [],
-    "nomi femminili": [],
+    "nomi_maschili": [],
+    "nomi_femminili": [],
     "tenore": "",
     "equip_bonus": "",
     "eta": "",
@@ -11,5 +11,125 @@ Cultura Vuota
     "velocita": "",
     "linguaggi": [],
     "tratti": [],
-    "sottorazze": []
+    "sottorazze": {}
+}
+
+
+
+Classe semplice Vuota
+
+"": {
+  "descrizione": "",
+  "dadi_vita": "",
+  "competenze": {
+    "armi": "",
+    "armature": "",
+    "strumenti": "",
+    "tiri_salvezza": "",
+    "abilita": ""
+  },
+  "equipaggiamento": {
+    "povero": "",
+    "frugale": "",
+    "marziale": "",
+    "prospero": "",
+    "ricco": ""
+  },
+  "vulnerabilita_ombra": "",
+  "archetipi": [],
+  "dettagliato": ""
+}
+
+
+Classe dettagliata Vuota
+
+{
+  "base": [{
+    "competenza": 2,
+    "privilegi": []
+  },
+  {
+    "competenza": 2,
+    "privilegi": []
+  },
+  {
+    "competenza": 2,
+    "privilegi": []
+  },
+  {
+    "competenza": 2,
+    "privilegi": []
+  },
+  {
+    "competenza": 3,
+    "privilegi": []
+  },
+  {
+    "competenza": 3,
+    "privilegi": []
+  },
+  {
+    "competenza": 3,
+    "privilegi": []
+  },
+  {
+    "competenza": 3,
+    "privilegi": []
+  },
+  {
+    "competenza": 4,
+    "privilegi": []
+  },
+  {
+    "competenza": 4,
+    "privilegi": []
+  },
+  {
+    "competenza": 4,
+    "privilegi": []
+  },
+  {
+    "competenza": 4,
+    "privilegi": []
+  },
+  {
+    "competenza": 5,
+    "privilegi": []
+  },
+  {
+    "competenza": 5,
+    "privilegi": []
+  },
+  {
+    "competenza": 5,
+    "privilegi": []
+  },
+  {
+    "competenza": 5,
+    "privilegi": []
+  },
+  {
+    "competenza": 6,
+    "privilegi": []
+  },
+  {
+    "competenza": 6,
+    "privilegi": []
+  },
+  {
+    "competenza": 6,
+    "privilegi": []
+  },
+  {
+    "competenza": 6,
+    "privilegi": []
+  }],
+  "": [{
+    "livello": ,
+    "privilegi": []
+  }],
+  "": [{
+    "livello": ,
+    "privilegi": []
+  }]
 }

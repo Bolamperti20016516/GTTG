@@ -1,8 +1,8 @@
 {
   "Bardiani": {
       "descrizione": "Gli uomini di valle del Nord di nobili origini, seguaci di Bard molto alti con braccia e gambe robuste.",
-      "nomi maschili": ["Aegir", "Agmund", "Agnarr"],
-      "nomi femminili": ["Aldis", "Aldrif", "Asfrid"],
+      "nomi_maschili": ["Aegir", "Agmund", "Agnarr"],
+      "nomi_femminili": ["Aldis", "Aldrif", "Asfrid"],
       "tenore": "Prospero",
       "equip_bonus": "Un mantello da viaggiatore foderato di pelliccia, attrezzatura da viaggio adatta alla stagione in corso,
         un giaciglio, uno zaino o due borse da sella, stivali comodi, 5d6 argento.
@@ -20,8 +20,8 @@
   "Beorniani": {
       "descrizione": "Uomini coriacei con braccia e gambe muscolose, mantengono la pace sorvegliando le vie dei boschi,
         seguaci di Beorn in mutapelle.",
-      "nomi maschili": ["Adalarn", "Ageric", "Agilfrid"],
-      "nomi femminili": ["Adosinda", "Amalfrida", "Amalina"],
+      "nomi_maschili": ["Adalarn", "Ageric", "Agilfrid"],
+      "nomi_femminili": ["Adosinda", "Amalfrida", "Amalina"],
       "tenore": "Marziale",
       "equip_bonus": "un mantello da viaggiatore dai colori sgargianti, attrezzatura da viaggio adatta alla stagione in corso,
         uno zaino o due borse da sella, un coltellino da cintura, stivali, 3d6 argento.
@@ -39,8 +39,8 @@
   "CavalieriRohan": {
       "descrizione": "Uomini del Riddermark, bellicosi, alti, di pelle chiara e dai capelli biondi.
         Grandi cavalieri legati alla terra e alle tradizioni",
-      "nomi maschili": ["Aldor", "Baldor", "Brego"],
-      "nomi femminili": ["Elfhild", "Eowyn", "Hild"],
+      "nomi_maschili": ["Aldor", "Baldor", "Brego"],
+      "nomi_femminili": ["Elfhild", "Eowyn", "Hild"],
       "tenore": "Marziale",
       "equip_bonus": "un cavallo da sella, un mantello da viaggiatore dal colore vivace,
         attrezzatura da viaggio adatta alla stazione in corso, uno zaino o due borse da sella, un coltellino da cintura,
@@ -59,8 +59,8 @@
       "descrizione": "I raminghi discendenti dei Dunedain del nord, i re degli uomini che giunsero dall'Ovesturia.
         I raminghi appaiono signorili e più alti della norma. Taciturni e bruschi nel comportamento proteggono il nord
         dalle minaccie rimanendo nascosti alle popolazioni limitrofe ignare dei pericoli che li minacciano.",
-      "nomi maschili": ["Adrahil", "Amlaith", "Anardil"],
-      "nomi femminili": ["Girlaen", "Ioreth", "Ivorwen"],
+      "nomi_maschili": ["Adrahil", "Amlaith", "Anardil"],
+      "nomi_femminili": ["Girlaen", "Ioreth", "Ivorwen"],
       "tenore": "Marziale",
       "equip_bonus": "un mantello scuro con cappuccio, attrezzatura da viaggio adatta alla stagione in corso,
         uno zaino, un coltellino da cintura, stivali, 3d6 argento. Due oggetti a scelta tra: un anello o gioiello della stirpe,
@@ -79,8 +79,8 @@
       "descrizione": "guerrieri agili dediti alla protezione del loro reame nascosto, gentili ma tenaci.
         diffidenti verso gli altri popoli sono combattenti incrollabili contro le ombre incombenti.
         non si ammalano, invecchiano.",
-      "nomi maschili": ["Aerandir", "Amras", "Amroth"],
-      "nomi femminili": ["Finduilas", "Miriel", "Nimrodel"],
+      "nomi_maschili": ["Aerandir", "Amras", "Amroth"],
+      "nomi_femminili": ["Finduilas", "Miriel", "Nimrodel"],
       "tenore": "Marziale",
       "equip_bonus": "un mantello da viaggiatore verde o grigio, attrezzatura da viaggio adatta alla stagione in corso,
         uno zaino o due borse da sella, un coltellino da cintura, stivali, 3d6 argento. Due oggetti a scelta tra:
@@ -103,8 +103,8 @@
   "Hobbit": {
       "descrizione": "Gli hobbit sono più bassi di statura degli uomini dai tratti giovanili e senza barba, spesso
         scambiati per bambini. Sono un popolo allegro e di buon cuore, ma molto precisi e coraggiosi quando necessario",
-      "nomi maschili": ["Adalgrim", "Adelard", "Andwise"],
-      "nomi femminili": ["Adaldrida", "Adamanta", "Amaranth"],
+      "nomi_maschili": ["Adalgrim", "Adelard", "Andwise"],
+      "nomi_femminili": ["Adaldrida", "Adamanta", "Amaranth"],
       "tenore": "Prospero",
       "equip_bonus": "un mantello da viaggiatore foderato di pelliccia, attrezzatura da viaggio adatta alla stagione in corso,
         un giaciglio, uno zaino o due borse da sella, 5d6 argento. Due oggetti a scelta tra: un buon bastone da passeggio,
@@ -132,16 +132,104 @@
   },
   "Nani": {
       "descrizione": "Una razza antica e riservata con tradizione sconosciute agli estranei. Sono tra i guerrieri piu formidabili
-        difficili da corrompere",
-      "nomi maschili": [],
-      "nomi femminili": [],
-      "tenore": "",
-      "equip_bonus": "",
-      "eta": "",
-      "taglia": "",
-      "velocita": "",
-      "linguaggi": [],
-      "tratti": [],
-      "sottorazze": []
+        difficili da corrompere, ma spesso in contrasto con gli altri popoli. Bassi e tarchiati dalla vita lunga",
+      "nomi_maschili": ["Ai", "Anar", "Balin"],
+      "nomi_femminili": ["Dis", "Hon", "Kona"],
+      "tenore": "Ricca",
+      "equip_bonus": "un mantello da viaggiatore foderato di pelliccia, attrezzatura da viaggio adatto alla stagione in corso,
+        un giaciglio, un bastone da montagna finemente intagliato, uno zaino, stivali comodi, 10d6 argento. Due oggetti a scelta tra:
+        2d6 argento, una moneta in oro dal tesoro di Smaug, strumenti di artigiano a scelta, strumento musicale, pettine da barba con
+        specchietto, un anello in oro, una fischetta di eccellente liquore nanico.",
+      "eta": "50-100",
+      "taglia": "Media",
+      "velocita": "7,5m",
+      "linguaggi": ["Daliano", "Nanico"],
+      "tratti": ["+2 Costituzione",
+                  "Visione notturna (Nano): luce fioca fino a 18m diventa luce normale",
+                  "Resilienza nanica: vantaggio tiri salvezza contro veleno. resistenza danni da veleno",
+                  "Addestramento da combattente nanico: competenza nelle asce, asce da lancio, asce grandi, martelli leggeri, martelli da guerra",
+                  "Competenza strumenti: competenza in un gruppo di strumenti da artigiano a scelta e uno strumento musicale",
+                  "Esperto minatore: prova intelligenza(Storia) relative a pietra ottiene competenza con il doppio del bonus"],
+      "sottorazze": {
+        "Erebor": ["+1 Saggezza",
+                    "Robustezza nanica: pf massimi +1, +1 per ogni nuovo livello",
+                    "Saggezza della strada: competenza a scelta negli strumenti"],
+        "ColliFerrosi": ["+2 Forza",
+                          "Strumento da guerra: competenza nel piccone da guerra"]
+      }
+  },
+  "UominiBoschi": {
+      "descrizione": "Alti coi capelli chiari, amano la vita nei boschi che proteggono e sorvegliano da orchi e ragni.
+        Abili domatori di bestie e animali sono i seguaci di Radagast il Bruno",
+      "nomi_maschili": ["Adalard", "Ageric", "Agilfrid"],
+      "nomi_femminili": ["Adosinda", "Amalfrida", "Amalina"],
+      "tenore": "Frugale",
+      "equip_bonus": "un mantello da viaggiore, attrezzatura da viaggio adatta alla stagione in corso, un coltellino da cintura,
+        stivali, 2d6 argento. Due oggetti a scelta tra: un cesto di mirtilli, una trappola da caccia, un set da gioco intagliato a mantello
+        un bracciale o collare di cuoio decorativo",
+      "eta": "16-30",
+      "taglia": "Media",
+      "velocita": "9m",
+      "linguaggi": ["Valle Anduin"],
+      "tratti": ["+1 Destrezza, +1 a 2 caratteristiche a scelta",
+                  "Perizia silvana: competenza sopravvivenza",
+                  "Virtu iniziale: 1 virtu uomini dei boschi a scelta"],
+      "sottorazze": null
+  },
+  "UominiBrea": {
+      "descrizione": "da capelli scuri e di bassa statura. Sono integrati con gli Hobbit con cui condividono alcune tradizioni,
+                      oltre che essere di corporatura larga e tozza dalla risata facile",
+      "nomi_maschili": ["Barliman", "Bill", "Bob"],
+      "nomi_femminili": ["Daisy", "Bliss", "Joan"],
+      "tenore": "Prospero",
+      "equip_bonus": "un mantello da viaggiatore foderato di pelliccia, attrezzatura da viaggio adatta alla stagione in corso,
+        un giaciglio, una zaino o due borse da sella, stivali comodi, 5d6 argento. Due oggetti a scelta tra: un bastone o randello,
+        un set di padelle di fattura nanica, un anello portafortuna dal disegno antico, un lettera della famiglia,
+        stivali di scorta, mantello da viaggiatore di scorta",
+      "eta": "16-30",
+      "taglia": "Media",
+      "velocita": "9m",
+      "linguaggi": ["Ovestron"],
+      "tratti": ["+1 Saggezza, +1 a due caratteristiche a scelta",
+                  "Sguardo del crocevia: competenza percezione",
+                  "Virtu iniziale: 1 virtu uomini di brea a scelta"],
+      "sottorazze": null
+  },
+  "UominiLago": {
+      "descrizione": "Si distinguono dai Bardiano per un grande amore nelle cose moderne ed esotiche, vestiti in modo meno appariscente
+        ma sempre elegante con pelliccie o stoffe. Apprezzano intrapendenza e coraggio",
+      "nomi_maschili": ["Aegir", "Agmund", "Agnarr"],
+      "nomi_femminili": ["Aldis", "Aldrif", "Asfrid"],
+      "tenore": "Prospero",
+      "equip_bonus": "un mantello da viaggiatore foderato di pelliccia, attrezzatura da viaggio adatto alla stagione in corso,
+        un giaciglio, uno zaino o due borse da sella, stivali comodi, 5d6 argento. Due oggetti a scelta tra: una canna da pesca,
+        un mazzo di carte da gioco, un gioco di societa, un presunto osso di drago,
+        un oggetto a caso di equipaggiamento bonus di una cultura diversa",
+      "eta": "16-30",
+      "taglia": "Media",
+      "velocita": "9m",
+      "linguaggi": ["Daliano"],
+      "tratti": ["+1 Carisma, +1 a 2 caratteristiche a scelta",
+                  "Mercanti nati: competenza persuasione",
+                  "Virtu iniziale: 1 virtu uomini lago a scelta"],
+      "sottorazze": null
+  },
+  "UominiMinasTirith": {
+      "descrizione": "Discendenti meridionali degli uomini dell ovest, i re del mare che costruirono i reami di Arnor e Gondor,
+        guerrieri dalla pelle chiara che serbano il ricordo del passato grandioso dai vestiti sfarzosi.",
+      "nomi_maschili": ["Adrahil", "Amlaith", "Anardil"],
+      "nomi_femminili": ["Gilraen", "Ioreth", "Ivorwen"],
+      "tenore": "Prospera",
+      "equip_bonus": "un mantello da viaggiatore nero, attrezzatura da viaggio adatta alla stagione in corso, un giaciglio,
+        uno zaino o due borse da sella, stivali comodi, 5d6 argento. Due oggetti a scelta tra: un corno da caccia,
+        inchiostro e pergamena, una cote, strumenti da artigiano, una spilla in argento dell Albero Bianco",
+      "eta": "16-40",
+      "taglia": "Media",
+      "velocita": "9m",
+      "linguaggi": ["Sindarin", "Ovestron"],
+      "tratti": ["+1 Intelligenza, +1 a 2 caratteristiche a scelta",
+                  "Retaggio fiero: competenza storia",
+                  "Virtu iniziale: 1 virtu uomini minas tirith a scelta"],
+      "sottorazze": null
   }
 }
