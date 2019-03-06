@@ -1,0 +1,164 @@
+
+Dimenticate la maggior parte delle cose che avete fatto/visto finora e soprattutto Dimenticate come sono state gestiste
+le sessioni finora perchè iniziamo a usare le regole in modo più corretto e spero piu chiaro a tutti sempre con l'obbiettivo
+principale di divertirci tutti tra gli alti e bassi delle avventure.
+
+
+Regole Base D&D 5e
+
+-Creazione personaggio
+  Selezione della Razza
+  Selezione della Classe
+  Caratteristiche
+    -Tirando i dadi: 4d6 per 6 volte rimuovendo ogni volta il dado più basso e sommando gli altri poi assegna i 6 risultati alle Caratteristiche
+    -Acquistando coi punti: 27 punti da distribuire
+      Caratteristica - Costo
+        15-9
+        14-7
+        13-5
+        12-4
+        11-3
+        10-2
+        9-1
+        8-0
+
+  Statistiche combattimento
+    PF livello 1: valore della classe + modificatore Costituzione
+    CA: valore dell'armatura + modificatore Destrezza (fino al limite dell'armatura)
+    Iniziativa: modificatore Destrezza
+  Background
+  Equipaggiamento: segnato nella classe + eventuali bonus della Razza
+
+-Razze
+  Tratti razziali: caratteristiche particolari della Razza come abilita, resistenze o magie
+  Età: età media degli avventurieri
+  Incrementi Caratteristica
+  Taglia
+  Velocita
+  Linguaggi
+  Sottorazze: solo alcune razze hanno ulteriori bonus o tratti razziali
+
+-Classi
+  PF
+   Dado vita: il dado per livello da barbaro
+   PF massimi: i dadi vita + modificatore Costituzione per livello da barbaro
+  Competenze: armature, armi e attrezzi dove si puo sommare il bonus competenza
+  Tiri salvezza: caratteristiche dove si puo sommare il bonus competenza
+  Abilita: selezione di abilita dove si puo impostare competenza
+  Equipaggiamento: l'equipaggiamento inizale della Classe
+
+  Livelli: da 1 a 20 ognuno con un bonus competenza e dei privilegi per ogni Classe
+  Archetipo: dal livello 3 ogni classe si puo specializzare in una "sottoclasse"
+
+-Oltre il primo livello
+  Guadagnare esperienza: tramite combattimento o concessi dal master
+    finendo missioni o particolati lavori. Quando si sale di livello si perdono tutti i
+    punti esperienza in eccesso guadagnati, si può salire di livello solo durante un riposo lungo.
+  Incremento caratteristica: in alcuni livelli si puo scegliere una tra le seguenti opzioni:
+    +2 a una caratteristica, +1 a 2 caratteristiche o acquisire un talento.
+    Non si puo aumentare una caratteristica oltre il 20.
+  Multiclassare: il livello del pg è la somma dei singoli livelli delle classi tenute separate
+  Prerequisiti multiclasse: caratteristica almeno a tot per aggiungere una determinata seconda Classe
+
+-Personalita
+  Allineamento: come si comportera il personaggio in un ottica più generica
+    in base alla moralità (buono, neutrale, malvagio) e alla società (legale, neutrale, caotico)
+  Linguaggi: le lingue che il pg sa parlare e gli alfabeti che riconosce. Di default tutti sanno il Comune.
+  Ispirazione: Il Master può offrire Ispirazione a un pg se il suo giocatore ne interpreta bene i tratti caratteriali
+    o se risolve una situazione con un idea geniale (non tanto se riesce o meno dal tiro di dadi).
+    Un pg può avere massimo un ispirazione per volta. Usare ispirazione vuol dire tirare con vantaggio i dadi (non dei danni).
+  Background: il passato del pg che definisce tratti di personalita e capacità aggiuntive
+    Competenze
+    Linguaggi
+    Equipaggiamento
+    Peculiarita: speranze, paure, ecc...
+
+-Equipaggiamento
+  Monete: Oro, Argento, Rame. 1 Oro = 10 Argento = 100 Rame.
+  Vendere Tesori: armi, armature ed equipaggiamento in buone condizioni viene venduto per la metà.
+    Armi e armatura del nemico difficilmente saranno vendibili a meno di pezzi rari o unici
+    Oggetti magici sono vendibili solo a determinati png facoltosi o interessati
+    Gemme e gioielli hanno un corispettivo in monete e vengono vendute a valore Equipaggiamento
+  Armature e scudi
+    Competenza armatura: tutti possono indossarle ma chi non ha competenza ha svantaggio in tutti i tiri e non puo lanciare incantesimi
+    CA: valore di base della CA (difesa) del pg
+    Scudo: se impugnato +2 CA totale.
+    Indossare e Togliere armature: se aiutato dimezza i tempi
+  Proprieta delle Armi
+    A Due Mani: Quest’arma richiede l’uso di due mani per attaccare, ma non per reggerla.
+    Da Lancio: Se un’arma ha la proprietà da lancio, puoi lanciarla per effettuare un attacco a distanza. Se l’arma è un’arma da mischia, usa lo stesso modificatore di caratteristica per il tiro per colpire e danno che useresti per un attacco da mischia con quell’arma.
+    Gittata: Un’arma che può essere usata per attaccare a distanza mostra la gittata tra parentesi dopo la proprietà munizioni o da lancio. La gittata indica due numeri. Il primo è la gittata normale dell’arma in metri, e il secondo è la gittata lunga dell’arma. Quando attacchi un bersaglio oltre la gittata normale, hai svantaggio sul tiro per colpire. Non puoi attaccare un bersaglio oltre la gittata lunga dell’arma.
+    Leggera: Un’arma leggera è piccola e facile da usare, ideale per l’uso nel combattimento con due armi.
+    Munizioni: Puoi usare un’arma che ha la proprietà munizioni per effettuare un attacco a distanza solo se hai le munizioni da impiegare con quell’arma. Ogni volta che attacchi con quell’arma, spendi una munizione. Estrarre le munizioni dalla faretra, scatola o altro contenitore fa parte dell’attacco. Al termine della battaglia, puoi recuperare metà delle munizioni spese, impiegando un minuto a cercare sul campo di battaglia. Ricaricare un’arma a una mano richiede una mano libera.
+    Pesante: Le creature Piccole hanno svantaggio sui tiri per colpire con armi pesanti. La taglia e l’ingombro di un’arma pesante la rendono troppo grossa da essere usata con efficacia da una creatura Piccola.
+    Portata: Quest’arma aggiunge 1,5 metri alla tua portata quando attacchi con essa. Determina anche la tua portata per gli attacchi di opportunità effettuati con essa.
+    Precisione: Quando attacchi con un’arma di precisione, usi a tua scelta il modificatore di Forza o Destrezza per i tiri per colpire e danno. Devi usare lo stesso modificatore per entrambi i tiri.
+    Ricarica: A causa del tempo richiesto per caricare quest’arma, puoi sparare solo una munizione ogni volta che usi un’azione, azione bonus o reazione per sparare con essa, non importa quale sia il numero di attacchi che puoi normalmente effettuare.
+    Speciale: Un’arma con la proprietà speciale ha delle regole insolite che ne governano l’uso, spiegate nella descrizione dell’arma.
+    Versatile: Quest’arma può essere usata con una o due mani. Accanto alla proprietà appare un valore di danno tra parentesi: il danno che l’arma infligge quando viene usata con due mani per effettuare un attacco da mischia.
+  Armi improvvisate: se non riconducibili a armi esistenti tolgono 1d4 danni (se da distanza hanno gittata 6m-18m).
+  Cavalcature e Veicoli: aumentano la velocita di movimento, il carico trasportabile e diminuisce la stanchezza.
+  Spese di vita: tra un avventura e l'altra i pg spendono un tot oro in base al proprio stile di vita per vitto e alloggio.
+
+-Talenti
+  un talento è un abilita aggiuntiva (solitamente passiva) che il pg ha appreso.
+
+-Caratteristiche
+  Forza: misura la potenza fisica
+  Destrezza: misura l'agilità
+  Costituzione: misura la resistenza
+  Intelligenza: misura la capacità di ragionamento e la memoria
+  Saggezza: misura la percezione e l'intuito
+  Carisma: misura la forza di personalità
+
+  Punteggio - modificatore
+  1             -5
+  2-3           -4
+  4-5           -3
+  6-7           -2
+  8-9           -1
+  10-11         0
+  12-13         +1
+  14-15         +2
+  16-17         +3
+  18-19         +4
+  20            +5
+
+  Vantaggio: tira due dadi e prendi il valore più altro
+  Svantaggio: tira due dadi e prendi il valore più basso
+  Prove caratteristica: superare una prova di caratteristica pura o di abilità implica il giocatore che tira 1d20,
+    somma il modificatore della caratteristica relativa ed eventualmente somma il bonus competenza. Il master confronta il risultato
+    contro una CD (classe difficolta) corrispondente alla prova richiesta. Se il valore del pg è uguale o superiore la prova è passata.
+    I valori di 20 o 1 non vengono considerate come fallimento critico o successo eccezionale.
+  Contese: entrambi eseguono il tiro su caratteristica o abilità relativo a quello che si sta cercando di effettuare.
+    I valori vengono confrontati e il più alto vince. In caso di pareggio la situazione rimane inalterata.
+  Collaborare: Il pg che effettua il tentativo effettua la prova caratteristica, l'alleato può aiutare fornendo vantaggio
+    alla prova del primo solo se sarebbe capace di svolgere il lavoro da solo.
+  Prove di gruppo: tutti i pg coinvolti effettuano singolarmente la prova caratteristica. Se almeno la metà passa l'intero gruppo ha successo.
+  Tiri Salvezza: tentativo di resistere a un incantesimo, trappola o veleno. il pg coinvolto tira 1d20 + il modificatore del tiro
+    salvezza relativo. La CD è determinata dall'effetto di chi lo provoca.
+
+-Avventura
+  Tempo: deciso dal Master a secoda di cosa sta succedendo e di cosa bisogna svolgere, questo al di fuori dei combattimenti.
+    Altrimenti nei combattimenti si divide il tempo in round dove ogni round = 6 secondi.
+  Velocità: la velocità indica i metri percorribili in un round ed è esclusivo del combattimento. Per le altre situazioni il movimento è descritto dal Master
+  Andatura da viaggio: i pg possono muoversi ad andatura rapida (-5 Percezione passiva), normale o lenta (si può usare Furtività) per 8 ore al giorno.
+    Marcia Forzata: oltre le 8 ore per ogni ora una CD 10 + num ore in eccesso per continuare o per acquisire un livello sfinimento.
+  Terreno Difficile: Le velocità sia di viaggio che in combattimento vengono dimezzate.
+  Cadere: 1d6 danni contundenti per ogni 3m di caduta fino a massimo 20d6 (o morte diretta per cadute eccessive)
+  Soffocare: una creatura può trattenere il fiato per tot minuti pari a 1 + modificatore costituzione. Quando finisce il fiato sopravvive per un numero di round
+    uguali al modificatore Costituzione.
+  Cibo: un pg necessita di mezzo chilo al giorno. Un pg può stare senza cibo per un numero di giorni pari a 3 + modificatore Costituzione, ogni giorno oltre aumenta di uno il livello sfinimento.
+  Acqua: un pg necessita di 4 litri d'acqua al giorno (otto se in clima caldo). Un pg che assume solo la metà tira salvezza su Costituzione con CD 15 o subisce un livello sfinimento.
+    Se ne assume ancora meno prende in automatico un livello sfinimento. Se ha già un livello sfinimento ne prende due in entrambi i casi.
+  Riposo Breve: inattività per almeno 1 ora dove non si fa altro che mangiare, bere, leggere o curarsi. Al termine del riposo si può spendere uno o più Dadi Vita. Per ogni dado vita
+    il pg recupera pf uguali al dado + modificatore Costituzione. I dadi vita vengono recuperati solo coi riposi lunghi.
+  Riposo Lungo: inattivita di almeno 8 ore non interrotta (stare di guardia per massimo 2 ore). Al termine del riposo il pg recupera tutti i pf e recupera un numero di dadi vita pari alla metà
+    del numero totale di dadi vita. Si può fare un riposo lungo massimo ogni 24 o non se ne subiscono gli effetti.
+
+-Combattimento
+  Sorpresa: Il Master determina se all'inizio di una battaglia alcune persone siano sorprese. Se nessuna delle due parti tenta di essere furtiva nessuno è sorpreso altrimenti è una contesa
+    tra Furtività e Percezione Passiva. Se un pg è sorpreso non puoò effettuare il primo turno di combattimento.
+  Iniziativa: tutti eseguono una prova di Destrezza (Il master decide a parità tra nemici e pg mentre i giocatori possono scegliere tra loro in caso di parità dei pg).
+  Turno: un pg può muoversi ed effettuare un'azione decidendo liberamente se prima muoversi e poi effettuare l'azione, il contrario oppure dividere a metà il movimento e rispostarsi dopo.
+  Azioni Bonus: alcune classi, incantesimi o talenti permettono un ulteriore azione bonus. Ogni pg può effettuare massimo un azione bonus a turno anche quando ha più possibilità.
