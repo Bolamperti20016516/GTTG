@@ -162,3 +162,21 @@ Regole Base D&D 5e
   Iniziativa: tutti eseguono una prova di Destrezza (Il master decide a parità tra nemici e pg mentre i giocatori possono scegliere tra loro in caso di parità dei pg).
   Turno: un pg può muoversi ed effettuare un'azione decidendo liberamente se prima muoversi e poi effettuare l'azione, il contrario oppure dividere a metà il movimento e rispostarsi dopo.
   Azioni Bonus: alcune classi, incantesimi o talenti permettono un ulteriore azione bonus. Ogni pg può effettuare massimo un azione bonus a turno anche quando ha più possibilità.
+  Altre attività: è possibile comunicare con brevi frasi o gesti, agire con oggetti o estrarre l'arma con la stessa azione per attaccare. agire con più oggetti o ritirare un arma impugnata
+    per estrarne un'altra costa un azione.
+  Reazione: una reazione è una risposta istantanea  a un'azione alleata o nemica.
+  Restare Prono: si è in condizione prona se si è stesi a terra dove è possibile solo strisciare consumando il doppio della velocita (triplo se terreno difficile) o metà della velocità per alzarsi.
+  Aggirare creature: si può sempre attraversare lo spazio di una creatura non ostile, ma non fermarvisi. Si può attraversare lo spazio di una creatura ostile solo se di almeno due taglie più grande.
+    Se ti allontani da una creatura ostile generi un attacco di opportunità.
+  Stringersi: una creatura può passare nello spazio di taglia più piccola dimezzando la propria velocità con uno svantaggio nei tiri per colpire e destrezza se combatte in quella posizione.
+  Azione in combattimento:
+    Aiutare: se una creatura compie un azione prima dell'inizio del tuo prossimo turno puoi aiutarla fornendole vantaggio. puoi fornire vantaggio ai tiri per colpire solo se combatti in mischia
+      con un nemico entro 1,5m da te e dall'alleato che vuoi aiutare. (Quindi si usate una vostra azione per fornire vantaggio a un altro. NON E' GRATIS)
+    Attaccare: banale attacco spiegato dopo.
+    Cercare: dedichi l'attenzione a cercare qualcosa (Percezione o Indagare).
+    Disimpegnarsi: per il resto del turno il tuo movimento non provoca attacchi d'opportunità
+    Lanciare un incantesimo: vedere Magia per i dettagli.
+    Nascondersi: una prova su Furtività per nascondersi concedono bonus descritti in seguito.
+    Preparare: usi la tua azione per descrivere cosa farai come reazione nel turno (se il nemico avanza lo attacco altrimenti rimango fermo)
+    Scattare: dal momento in cui usi l'azione scattare raddoppi la velocità rimanente per il movimento.
+    Schivare: ti concentri sull'evitare gli attacchi, fino al prossimo turno i nemici hanno svantaggio per colpirti e il pg ha vantaggio sui tiri salvezza destrezza. (non vale con velocità 0)
