@@ -345,3 +345,55 @@ le stregonerie che usano il potere dei Valar e gli elementi della terra (come fa
       o effettuarvi una tappa durante la fase di avventura.
     Ricercare Sapienza: il pg effettua una prova intelligenza in Storia, Natura o Indovinelli con CD 15 disponendo di vantaggio. Se passa il Master risponde a 3 quesiti del giocatore su un argomento collegato all'abilità utilizzatta. Se la prova
       fallisce riceverà ugualmente 3 informazioni ma una o due saranno false o fuorvianti.
+
+
+Regole Avventure nella terra di mezzo - Guida del maestro del sapere
+
+Cinque anni dopo la guerra dei cinque eserciti i vari popoli delle terre selvagge hanno iniziato a crescere e prosperare questo soprattutto grazie a re Bard, nuovo re di Valle, che si è impegnato per stabilire accordi di pace e commercio con
+tutti i popoli delle terre selvagge oltre che indire un Adunanza dove si offre opportunità ai coraggiosi avventurieri per ritrovarsi a Pontelagolungo e aiutare lo sviluppo di tutte le terre vicine.
+
+-Attività aggiuntive fase della compagnia a Pontelagolungo
+  Visitare il porto del mercato: spendendo 4oro un pg passa la fase girando nel mercato e seleziona una delle opzioni seguenti per acquistare un oggetto che conferisce +1 a tutti i tiri abilità collegati. Svolgendo una seconda fase della compagnia al mercato
+    il pg può spendere altri 4oro e riprendere la stessa opzione per aumentare il bonus a +2 (non oltre).
+    Trovare un orafo che incastoni pietre prezione nell'arma: bonus tiri per colpire o ai tiri per i danni.
+    Visitare un fabbro o artigiano per comprare strumenti appropriati al mestiere: bonus ai tiri che utilizzano quegli strumenti.
+    Acquistare uno strumento musicale eccellente: bonus ai tiri che utilizzano lo strumento.
+    Imparare a preparare balsami e impacchi all'ospedale: bonus tiri per stabilizzare una creatura e ai pf recuperati coi dadi vita.
+    Acquistare equipaggiamento da viaggio: bonus tiri di Preparazione o Arrivo durante i viaggi.
+    Visitare una bottega o un sarto per un vestito su misura: bonus alle abilità che coinvolgono Carisma.
+    Cercare un libro o una pergamena rara: bonus alle abilità che coinvolgono Intelligenza.
+    Visitare un maestro cacciatore: bonus ai tiri quando svolge il ruolo Cacciatore nei viaggi.
+  Raccogliere erbe palustri: un pg perlustra le rive del Fiume Selva per cercare erbe da portare in un momento successivo a pontelagolungo per scambiarle da un erborista con scorte di unguenti o pozioni (l'attività comporta rischi, possibili imboscate o combattimenti).
+    Il pg tira 1d6 e confronta una tabella con quello che guadagnerebbe dallo scambio, se il pg ha competenza in Medicina o Natura ottiene vantaggio.
+
+-Regole di avventura
+  Riposo: funziona come in D&D ma con l'eccezione che non è possibile effettuare un riposo lungo durante i viaggi (ci possono essere rare eccezioni decise dal Master a seconda della situazione).
+    In questa ambientazione non ci sono le stesse capacità di guarigione di D&D e quindi bisogna ponderare bene quanto avventurarsi se non si ha avuto la possibilità di effettuare un riposo lungo. Ritirasi è una possibilità da considerare in alcune situazioni senza
+    provare alcuna vergogna.
+  Indebolimento: è possibile morire per indebolimento quindi va tenuto molto in considerazione. E' possibile rimuovere un livello di indebolimento tramite un riposo lungo, abilità di pg e png.
+    Livello indebolimento : effetto
+    1: Svantaggio alle prove Caratteristica
+    2: Velocità dimezzata
+    3: Svantaggio ai tiri per colpire e ai tiri Salvezza
+    4: PF massimi dimezzati
+    5: Velocità ridotta a 0
+    6: Morte
+  Ispirazione: Il funzionamento è lo stesso di D&D quindi ricevere ispirazione se si interpreta bene il proprio pg o si propone qualche idea geniale, utilizzarla per ottenere vantaggio a un tiro o per attivare determinate capacità.
+  Personaggi multiclasse: Requisiti per apprendere una seconda classe dopo il primo livello;
+    Studioso: Intelligenza 13.
+    Sterminatore: Forza 13.
+    Cacciatore di tesori: Destrezza 13.
+    Viandante: Costituzione 13.
+    Guardiano: Carisma 13.
+    Guerriero: Forza o Destrezza 13.
+
+-Tesori e ricompense
+  Nella terra di mezzo le ricchezze vanno al di la del normale accumulo di beni soprattutto per gli avventurieri. I mercanti o artigiani facoltosì saranno certamente più propensi a trattare con chi ha in tasca un bel po di oro, ma uno studioso o un signore potrebbe
+  vedere nell'oro una debolezza di cupidigia del pg e fidarsi di meno. Va quindi ricordato che l'oro per gli avventurieri è qualcosa di utile in minima parte in quanto il loro equipaggiamento rimane solitamente lo stesso per le varie avventure (ricevendo piccole migliorie)
+  o venendo sostituito da nuovi equipaggiamenti donati come ricompensa dal signore di un luogo o dal committente di una missione ben riuscita
+
+-Guarigione magica
+  Erbe pozioni e unguenti: descritti nel manuale del giocatore
+  Lembas: il pan di via elfico ben custodito. mangiare un galletta rimuove 1 livello di indebolimento e ripristina 1d6 pf per livello della creatura che la mangia.
+  Acqua del Nimrodel: un sorso rimuove 1d2 livelli indebolimento e ripristina 1d4 pf per livello della creatura che lo beve
+  Miruvor: cordiare raro e prezioso di Gran Burrone. un sorso rimuove 1d4 livelli di indebolimento e recupero immediato di 1 dado vita
