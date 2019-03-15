@@ -1,0 +1,114 @@
+{
+  "base": [{
+    "competenza": 2,
+    "privilegi": []
+  },
+  {
+    "competenza": 2,
+    "privilegi": []
+  },
+  {
+    "competenza": 2,
+    "privilegi": []
+  },
+  {
+    "competenza": 2,
+    "privilegi": []
+  },
+  {
+    "competenza": 3,
+    "privilegi": []
+  },
+  {
+    "competenza": 3,
+    "privilegi": []
+  },
+  {
+    "competenza": 3,
+    "privilegi": []
+  },
+  {
+    "competenza": 3,
+    "privilegi": []
+  },
+  {
+    "competenza": 4,
+    "privilegi": []
+  },
+  {
+    "competenza": 4,
+    "privilegi": []
+  },
+  {
+    "competenza": 4,
+    "privilegi": []
+  },
+  {
+    "competenza": 4,
+    "privilegi": []
+  },
+  {
+    "competenza": 5,
+    "privilegi": []
+  },
+  {
+    "competenza": 5,
+    "privilegi": []
+  },
+  {
+    "competenza": 5,
+    "privilegi": []
+  },
+  {
+    "competenza": 5,
+    "privilegi": []
+  },
+  {
+    "competenza": 6,
+    "privilegi": []
+  },
+  {
+    "competenza": 6,
+    "privilegi": []
+  },
+  {
+    "competenza": 6,
+    "privilegi": []
+  },
+  {
+    "competenza": 6,
+    "privilegi": []
+  }],
+  "CacciatoreBestie": [{
+    "livello": 3,
+    "privilegi": []
+  },
+  {
+    "livello": 7,
+    "privilegi": []
+  },
+  {
+    "livello": 11,
+    "privilegi": []
+  },
+  {
+    "livello": 15,
+    "privilegi": []
+  }],
+  "CacciatoreOmbre": [{
+    "livello": 3,
+    "privilegi": []
+  },
+  {
+    "livello": 7,
+    "privilegi": []
+  },
+  {
+    "livello": 11,
+    "privilegi": []
+  },
+  {
+    "livello": 15,
+    "privilegi": []
+  }]
+}

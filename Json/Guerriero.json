@@ -130,7 +130,50 @@
       "Sacrificio: se si trova entro 9m puo lanciarsi sulla traiettoria e subire i danni o la condizione che avrebbero colpito il Protetto"]
   }],
   "Maestro Armi": [{
-    "livello": ,
-    "privilegi": []
+    "livello": 3,
+    "privilegi": ["Stile focalizzato: lo stile di combattimento scelto al livello 1 ottiene capacità aggiuntive.
+        Combattere con armi possenti: vantaggio con arma a due mani o versatile se combatte con una creatura di taglia inferiore.
+        Combattere con due armi: rinuncia ad attaccare con una delle due armi per imporre svantaggio al prossimo tiro per colpirlo.
+        Difesa: ingora lo svantaggio per le prove Furtività a causa delle armature.
+        Duellare: può scambiare il bonus +2 ai danni con un bonus +2 per colpire.
+        Protezione: può eseguire come azione bonus un attacco con scudo infliggendo 1d6 + modificatore Forza se colpisce.
+        Tiro: può spendere un azione per prendere la mira. se attacca con l'arco il turno successivo a +2 per colpire e
+          non subisce svantaggio su attacchi a lunga gittata.",
+      "Maestrie: il guerriero raggiunge la padronanza in una specifica arma scegliendo uno tra i seguenti bonus.
+        Diritto di nascita: il guerriero ha acquisito un arma pregevole e le da un nome. Quando la acquisisce la prima volta ha vantaggio
+          in qualsiasi prova Intimidire o Persuasione, a livello 3 bonus +1 a tutti i tiri per colpire e ai danni,
+          a livello 7, 10 e 15 acquisisce una delle seguenti qualita:
+            Bilanciata: può trasferire il bonus per colpire della sua arma alla sua CA per un turno.
+            Famigerata: il nome della sua arma suscita terrore in un gruppo di nemici scelto dal giocatore (Dunlandiani, Haradrim, Carrieri, Orchi, Troll, Ragni o simile).
+              Quando infligge un critico con la sua arma tutte le creature del gruppo scelto devono superare un tiro salvezza su Saggezza con
+              CD 8 + bonus competenza + modificatore Forza o Destrezza a scelta del guerriero o rimangono Spaventate per il resto della battaglia.
+            Feroce: bonus +2 a tutti i tiri per colpire e ai danni anziche il +1.
+            Minacciosa: infligge un colpo critico con risultato naturale di 19 o 20.
+            Spietata: con un risultato naturale di 20 infligge +7 danni.
+            Tenace: non può essere spezzata per caso o in seguito ad attacchi nemici.
+        Forza di volonta: ogni danno inflitto si considera radioso.
+        Membro di una gilda: il guerriero viene approvato da una organizzazione quindi la base della stessa diventa un Rifugio per il guerriero
+          e fornisce sostegno attraverso cibo, riparo e fonti di sapere (non scendono in guerra al suo fianco).
+        Letale: ai danni si può sommare il valore più alto tra il bonus competenza o il modificatore caratteristica. (almeno al 10 per scegliere questa maestria).
+        Antichi avversari: il guerriero sceglie un nemico giurato (meglio se imbattuto di persona o famoso contro la propria cultura) e ottiene vantaggio
+          nelle prove Indagare, Intimidire e Percezione che lo riguardano. Ottiene vantaggio nei tiri per i danni contro il nemico giurato.
+        Sfida del maestro armi: il guerriero nomina un alleato presente nella battaglia. Fin quando il numero di nemici uccisi resta entro una differenza di 3
+          entrambi ottengono un bonus +1 ai tiri per colpire. Non può essere utilizzata più di una volta per riposo lungo."]
+  },
+  {
+    "livello": 7,
+    "privilegi": ["Maestria"]
+  },
+  {
+    "livello": 10,
+    "privilegi": ["Maestria"]
+  },
+  {
+    "livello": 15,
+    "privilegi": ["Maestria"]
+  },
+  {
+    "livello": 18,
+    "privilegi": ["Maestria"]
   }]
 }
