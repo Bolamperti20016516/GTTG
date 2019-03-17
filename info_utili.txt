@@ -133,3 +133,35 @@ Classe dettagliata Vuota
     "privilegi": []
   }]
 }
+
+Virtu Vuota
+
+{
+  "aperte": [],
+  "bardiani": [],
+  "beorniani": [],
+  "cavalieriRohan": [],
+  "dunedain": [],
+  "elfiBoscoAtro": [],
+  "hobbit": [],
+  "nani": [],
+  "uominiBoschi": [],
+  "uominiBrea": [],
+  "uominiLago": [],
+  "uominiMinasTirith": []
+}
+
+
+Background vuoto
+
+{
+  "": {
+    "competenze": "",
+    "privilegio": "",
+    "tratti": "",
+    "qualita": [],
+    "specialita": [],
+    "speranza": [],
+    "disperazione": []
+  }
+}
