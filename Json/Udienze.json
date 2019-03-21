@@ -1,0 +1,35 @@
+{
+  "atteggiamento": {
+    "bardiani":           ["Favorito","Amichevole","Sconosciuto","Sconosciuto","Neutrale","Sconosciuto","Favorito","Neutrale","Neutrale","Amichevole","Sconosciuto"],
+    "beorniani":          ["Amichevole","Favorito","Sconosciuto","Sconosciuto","Neutrale","Sconosciuto","Cauto","Amichevole","Sconosciuto","Neutrale","Sconosciuto"],
+    "cavalieriRohan":     ["Sconosciuto","Sconosciuto","Favorito","Sconosciuto","Sconosciuto","Sconosciuto","Sconosciuto","Sconosciuto","Sconosciuto","Sconosciuto","Favorito"],
+    "dunedain":           ["Sconosciuto","Sconosciuto","Sconosciuto","Favorito","Sconosciuto","Cauto","Neutrale","Sconosciuto","Cauto","Sconosciuto","Cauto"],
+    "elfiBoscoAtro":      ["Amichevole","Neutrale","Cauto","Sconosciuto","Favorito","Sconosciuto","Diffidente","Amichevole","Sconosciuto","Amichevole","Sconosciuto"],
+    "hobbit":             ["Amichevole","Sconosciuto","Sconosciuto","Amichevole","Sconosciuto","Favorito","Amichevole","Sconosciuto","Amichevole","Sconosciuto","Sconosciuto"],
+    "nani":               ["Favorito","Cauto","Sconosciuto","Neutrale","Diffidente","Neutrale","Favorito","Neutrale","Sconosciuto","Amichevole","Sconosciuto"],
+    "uominiBoschi":       ["Neutrale","Amichevole","Sconosciuto","Sconosciuto","Amichevole","Sconosciuto","Neutrale","Favorito","Sconosciuto","Neutrale","Sconosciuto"],
+    "uominiBrea":         ["Neutrale","Sconosciuto","Sconosciuto","Neutrale","Sconosciuto","Amichevole","Amichevole","Sconosciuto","Favorito","Sconosciuto","Sconosciuto"],
+    "uominiLago":         ["Amichevole","Neutrale","Sconosciuto","Sconosciuto","Amichevole","Sconosciuto","Amichevole","Neutrale","Sconosciuto","Favorito","Neutrale"],
+    "uominiMinasTirith":  ["Neutrale","Sconosciuto","Favorito","Neutrale","Sconosciuto","Sconosciuto","Sconosciuto","Sconosciuto","Sconosciuto","Neutrale","Favorito"]
+  },
+  "reazioni": {
+    "favorito": ["Il PNG accoglie con calore la compagnia ed è disposto a compiere piccoli sacrifici ed esaudire richieste di minore entità",
+      "Il PNG accetta di correre un rischio significativo per aiutare la compagnia se necessario. I personaggi vengono trattati come ospiti di riguardo",
+      "Il PNG fa tutto quello che gli chiede la compagnia purché le richieste non siano oltraggiose o diano adito a sospetti. I personaggi sono accolti con benevolenza come se fossero parenti di sangue e ricevono ogni onore comodità che possa essergli concessa"],
+    "amichevole": ["Il PNG fa quello che gli viene chiesto perché non vi sia prospettiva di sacrificio o di correre pericoli. Alloggio viene offerto spontaneamente",
+      "Il PNG accoglie con calore la compagnia ed è disposto a compiere piccoli fa sacrifici ed esaudire richieste di minore entità",
+      "Il PNG accetta di correre un rischio significativo per aiutare la compagnia se necessario. I personaggi vengono trattati come ospiti di riguardo"],
+    "neutrale": ["Il PNG non offre alcun aiuto ma nemmeno intralcia i personaggi",
+      "Il PNG offre a malincuore alloggio per qualche notte e fare ciò che gli viene chiesto a patto che non comporti rischi o sacrifici",
+      "Il PNG concedi aiuti o servizi di minore importanza che vengono domandati dalla compagnia ma qualsiasi richiesta più impegnativa lo fa adirare"],
+    "cauto": ["Il PNG non offre alcun aiuto e intimo alla compagnia di andarsene immediatamente",
+      "I PNG offre a malincuore riparo per una notte ma niente di più",
+      "Il PNG offre a malincuore riparo per una notte e fa ciò che gli viene chiesto a patto che non comporti rischi o sacrifici"],
+    "sconosciuto": ["Il PNG non offre alcun aiuto e intimo alla compagnia di andarsene immediatamente",
+      "I PNG offre a malincuore riparo per una notte ma niente di più",
+      "Il PNG offre a malincuore riparo per una notte e fa ciò che gli viene chiesto a patto che non comporti rischi o sacrifici"],
+    "diffidente": ["Il PNG contratto elezioni della compagnia e se ne ha possibilità cerca di opporsi. Ogni richiesta di alloggio è rifiutata",
+      "Il PNG non offre alcun aiuto e intima la compagnia di andarsene immediatamente",
+      "Il PNG offre a malincuore riparo per una notte ma niente di più"]
+  }
+}
