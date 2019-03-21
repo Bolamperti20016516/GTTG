@@ -165,3 +165,161 @@ Background vuoto
     "disperazione": []
   }
 }
+
+
+Viaggi vuoto
+
+{
+  "preparazione": ["",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""],
+  "eventi": ["",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""],
+  "arrivo": ["",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""]
+}
+
+
+Ombra
+
+{
+  "angoscia": {[
+    {
+      "fonte_angoscia": "",
+      "esempi": "",
+      "punti_ombra": ""
+    },
+    {
+      "fonte_angoscia": "",
+      "esempi": "",
+      "punti_ombra": ""
+    },
+    {
+      "fonte_angoscia": "",
+      "esempi": "",
+      "punti_ombra": ""
+    },
+    {
+      "fonte_angoscia": "",
+      "esempi": "",
+      "punti_ombra": ""
+    }
+  ]},
+  "terre_degradate": {[
+    {
+      "regioni": "",
+      "degratata_risultato": "",
+      "frequenza_tiri_salvezza": ""
+    },
+    {
+      "regioni": "",
+      "degratata_risultato": "",
+      "frequenza_tiri_salvezza": ""
+    },
+    {
+      "regioni": "",
+      "degratata_risultato": "",
+      "frequenza_tiri_salvezza": ""
+    },
+    {
+      "regioni": "",
+      "degratata_risultato": "",
+      "frequenza_tiri_salvezza": ""
+    }
+  ]},
+  "misfatti": {[
+    {
+      "azioni": "",
+      "punti_ombra": ""
+    },
+    {
+      "azioni": "",
+      "punti_ombra": ""
+    },
+    {
+      "azioni": "",
+      "punti_ombra": ""
+    },
+    {
+      "azioni": "",
+      "punti_ombra": ""
+    },
+    {
+      "azioni": "",
+      "punti_ombra": ""
+    },
+    {
+      "azioni": "",
+      "punti_ombra": ""
+    }
+  ]},
+  "tesoro_corrotto": {[
+    {
+      "provenienza": "",
+      "cd": "",
+      "punti_ombra": ""
+    },
+    {
+      "provenienza": "",
+      "cd": "",
+      "punti_ombra": ""
+    },
+    {
+      "provenienza": "",
+      "cd": "",
+      "punti_ombra": ""
+    },
+    {
+      "provenienza": "",
+      "cd": "",
+      "punti_ombra": ""
+    }
+  ]},
+  "degenerazione": {[
+    {
+      "vulnerabilita": "",
+      "livelli": ["","","",""]
+    },
+    {
+      "vulnerabilita": "",
+      "livelli": ["","","",""]
+    },
+    {
+      "vulnerabilita": "",
+      "livelli": ["","","",""]
+    },
+    {
+      "vulnerabilita": "",
+      "livelli": ["","","",""]
+    },
+    {
+      "vulnerabilita": "",
+      "livelli": ["","","",""]
+    }
+  ]}
+}

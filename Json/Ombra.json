@@ -1,0 +1,116 @@
+{
+  "angoscia": [
+    {
+      "fonte_angoscia": "Evento tragico naturale ma inaspettato avvenimento molto grave.",
+      "esempi": "Incidente grave o mortale, morte in famiglia, catastrofe naturale.",
+      "punti_ombra": "L'eroe riceve un punto solo se fallisce il tiro salvezza sulla saggezza con un risultato di 1 o 2"
+    },
+    {
+      "fonte_angoscia": "Uccisione truculenta, esperienza spaventosa, opera degli orchi (distruzione insensata) virgola manifestazione del potere del nemico.",
+      "esempi": "Svegliarsi in una tomba infestata, scoprire un traditore fra gli amici, rinvenire degli innocenti orrendamente mutilati, assistere all'adunata di un esercito dell'ombra.",
+      "punti_ombra": "1 punto se fallisce il tiro salvezza sulla saggezza."
+    },
+    {
+      "fonte_angoscia": "Esperienza straziante, fisico e spirituale, stregoneria.",
+      "esempi": "Schiavitù, tortura, il soffio nero, essere tormentati da uno spettro, vedere l'occhio.",
+      "punti_ombra": "2 punti se fallisce il tiro salvezza sulla saggezza."
+    },
+    {
+      "fonte_angoscia": "Sperimentare direttamente il potere del nemico.",
+      "esempi": "Subire l'interrogatorio dell'occhio, essere catturati dai nazgul.",
+      "punti_ombra": "1 punto automatico. Se il tiro salvezza sulla saggezza fallisce le riceve 2 punti addizionali."
+    }
+  ],
+  "terre_degradate": [
+    {
+      "regioni": "Terre libere, terre di confine",
+      "degratata_risultato": "1",
+      "frequenza_tiri_salvezza": "Solo quando lo richiede l'avventura in corso"
+    },
+    {
+      "regioni": "Terre selvagge",
+      "degratata_risultato": "1-3",
+      "frequenza_tiri_salvezza": "Una volta per ogni 14 esagoni attraversati"
+    },
+    {
+      "regioni": "Terre d'ombra",
+      "degratata_risultato": "1-5",
+      "frequenza_tiri_salvezza": "Una volta per ogni 2 esagoni attraversati"
+    },
+    {
+      "regioni": "Terre Nere",
+      "degratata_risultato": "1-7",
+      "frequenza_tiri_salvezza": "Una volta per ogni esagono attraversato"
+    }
+  ],
+  "misfatti": [
+    {
+      "azioni": "Misfatto accidentale",
+      "punti_ombra": "-"
+    },
+    {
+      "azioni": "Minacce violente",
+      "punti_ombra": "1"
+    },
+    {
+      "azioni": "Mentire consapevolmente, manipolare la volontà altrui",
+      "punti_ombra": "2"
+    },
+    {
+      "azioni": "Vigliaccheria, furto e rapina",
+      "punti_ombra": "3"
+    },
+    {
+      "azioni": "Aggressione non provocata, abusare della propria autorità per dominare",
+      "punti_ombra": "4"
+    },
+    {
+      "azioni": "Tormento e tortura, omicidio",
+      "punti_ombra": "5"
+    }
+  ],
+  "tesoro_corrotto": [
+    {
+      "provenienza": "Dal nascondiglio di un Troll",
+      "cd": "12",
+      "punti_ombra": "1"
+    },
+    {
+      "provenienza": "Dal deposito di un drago",
+      "cd": "15",
+      "punti_ombra": "1"
+    },
+    {
+      "provenienza": "Rubato da un antico tumulo",
+      "cd": "12",
+      "punti_ombra": "2"
+    },
+    {
+      "provenienza": "Da una roccaforte dell'oscuro signore",
+      "cd": "15",
+      "punti_ombra": "1 punto automatico. altri 3 se il tiro fallisce"
+    }
+  ],
+  "degenerazione": [
+    {
+      "vulnerabilita": "Brama di potere",
+      "livelli": ["Astioso","Arrongante","Presuntuoso","Dispotico"]
+    },
+    {
+      "vulnerabilita": "Brama di segreti",
+      "livelli": ["Borioso","Sprezzante","Intrigante","Perfido"]
+    },
+    {
+      "vulnerabilita": "Malattia del drago",
+      "livelli": ["Avido","Sospettoso","Disonesto","Ladro"]
+    },
+    {
+      "vulnerabilita": "Maledizione della vendetta",
+      "livelli": ["Malevolo","Brutale","Crudele","Omicida"]
+    },
+    {
+      "vulnerabilita": "Pazzia del vagabondo",
+      "livelli": ["Indolente","Smemorato","Insensibile","Vigliacco"]
+    }
+  ]
+}

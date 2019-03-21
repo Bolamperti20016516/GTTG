@@ -1,0 +1,75 @@
+{
+  "preparazione": ["1) +2 ai tiri di viaggio. I test iniziali di ogni incontro dispongono di svantaggio. 1 Punto Ombra",
+    "2) 1 Punto Ombra. Tutti i tiri eseguiti da ogni personaggio dispongono svantaggio finchè un tiro non ha successo",
+    "3) +1 a tutti i tiri sulla tabella Eventi del viaggio. Il primo tiro di ciascun personaggio dispone di svantaggio",
+    "4) Tutti i tipi di terreno sono considerati più difficili di 1 grado",
+    "5) 1 livello di indebolimento",
+    "6) -1 a tutte le prove abilità",
+    "7) +1 a tutte le prove abilità",
+    "8) Il primo livello di indebolimento viene ignorato",
+    "9) Tutti i tipi di terreno sono considerati più facili di 1 grado",
+    "10) +1 a tutti i tiri sulla tabella Eventi del viaggio. Il primo tiro di ciascun evento dispone di vantaggio",
+    "11) Tutti i personaggi dispongono di vantaggio fino a quando non falliscono una prova caratteristica",
+    "12) +2 ai tiri sulla tabella eventi del viaggio. I test effettuati per determinare il risultato iniziale di questi incontri dispongono di vantaggio"],
+  "eventi": ["1) Esploratore: prova di furtività per evitare o prova di Persuasione. Se viene usata persuasione, un successo fa disporre vantaggio al primo tiro dell'evento successivo, fallimento procura svantaggio",
+    "2) Cacciatore: prova sopravvivenza. un successo procura cibo (rimuove 1 livello indebolimento o ripristina 1 dado vita) o erve scelte dal Master. Un fallimento causa -1 al tiro di arrivo.
+      Se tiro preparazione 6 o 7 si dispone di svantaggio o vantaggio",
+    "3) Guida: sopravvivenza. tutti gli altri personaggi: Sopravvivenza o Atletica. Se tiro preparazione 4 o 9 si dispone svantaggio o vantaggio.
+      Tutti superano la prova: +1 tiro arrivo. Metà o più superano la prova: nessun modificatore. Meno di metà superano la prova: 1 livello di indebolimento. Tutti falliscono: 1 livello di indebolimento e -1 al tiro di arrivo",
+    "4) Persone in difficoltà: se gli eroi decidono di non aiutarle tiro salvezza sulla saggezza per evitare 1 punto ombra.
+      Se le aiutano: 3 prove suddivise nel gruppo tra Sopravvivenza, Tradizioni, Intuizione, Persuasione, Addestrare animali, Medicina o Natura.
+        Tutti superano la prova: ogni personaggio è Ispirato e ottiene +1 al tiro Arrivo.
+        Metà o più: 1 personaggio è Ispirato e ottiene di +1 tiro Arrivo.
+        Un solo personaggio supera la prova: +1 tiro Arrivo.
+        Tutti falliscono: -1 tiro Arrivo.",
+    "5) Vedetta: Percezione. Se tiro preparazione 3 o 10 si dispone svantaggio o vantaggio.
+      Successo: il gruppo può evitare o preparare un'imboscata ottenendo un round di sorpresa.
+      Fallimento: il nemico ottiene un round sorpresa",
+    "6) Tutti eseguono una prova Saggezza o Indagare. Chi supera rimuove 1 livello indebolimento. Chi fallisce acquisisce 1 livello indebolimento.
+      Se tiro preparazione 5 o 8 si dispone di svantaggio o vantaggio.
+      Tutti superano la prova: +1 tiro Arrivo.
+      Tutti falliscono: -1 tiro Arrivo.",
+    "7) Cacciatore: Sopravvivenza. Se tiro preparazione 6 o 7 si dispone di svantaggio o vantaggio.
+      Successo con margine 5 o più: tutti i personaggi possono togliere 1 livello indebolimento. +1 tiro Arrivo.
+      Successo: tutti possono togliere 1 livello indebolimento.
+      Fallimento: tutti acquisiscono 1 livello indebolimento.
+      Fallimento con margine 5 o più: tutti acquisiscono 1 livello indebolimento. -1 tiro Arrivo.",
+    "8) Esploratore: Indagare.
+      Successo con margine 5 o più: riposo lugno. tutti i personaggi possono togliere 1 livello indebolimento. +1 tiro Arrivo.
+      Successo: tutti possono togliere 1 livello indebolimento.
+      Fallimento: tutti acquisiscono 1 livello indebolimento.
+      Fallimento con margine 5 o più: affrontare un combattimento. -1 tiro Arrivo.",
+    "9) Tutti i personaggi devono eseguire prova di saggezza.
+      Metà o più superano la prova: +1 tiro Arrivo.
+      Meno di metà superano la prova: -1 tiro Arrivo.
+      Ogni pg:
+        Successo con margine 5 o più: Ispirazione e rimozione 1 livello indebolimento.
+        Successo: Ispirazione.
+        Fallimento: prova corruzzione o acquisire 2 punti ombra.
+        Fallimento con margine 5 o più: acquisisce 1 livello di indebolimento. prova corruzione o acquisire 2 punti ombra.",
+    "10) Esploratore: Indagare
+      Successo con margine 5 o più: tutti guadagnano Ispirazione e possono rimuovere 1 punto ombra. +1 tiro Arrivo.
+      Successo: +1 tiro Arrivo.
+      Fallimento: tutti devono effettuare tiro salvezza su corruzione o acquisire 1 punto ombra.
+      Fallimento con margine 5 o più: combattimento contro qualcuno di oscuro e potente.",
+    "11) Se tiro preparazione 3 si verifica un combattimento. Vedetta: percezione. Superato il gruppo ottiene un round di sorpresa.
+      Se tiro preparazione 10 ogni pg può eseguire una prova furtività.
+        Se tutti hanno successo si può evitare il combattimento (se il gruppo possiede pony o cavalli prova su Addestrare animali).
+        Se uno fallisce il tiro esegue il combattimento senza nessun bonus da entrambe le parti",
+    "12) Se tiro preparazione 1: incontro con un servo del nemico. Se tiro preparazione 12: incontro con un importante png buono.
+      Se tiro preparazione non 1 o 12 la vedetta deve effettuare una prova Percezione.
+        Successo con margine 5 o più: il gruppo incontra un png importante e lo riconosce. rimuovere un punto ombra. La compagnia può chiedere udienza:
+          Se ha successo dispone di vantaggio ai tiri iniziali dell'incontro successivo e acquisire un nuovo patrono.
+        Successo: Prova Intuizione svela la natura del png oppure dimostrazione che la compagnia ha intenzioni oneste può indurre il png ha svelare la propria natura.
+        Fallimento: ogni personaggio tiro salvezza contro corruzzione o acquisisce 2 punti ombra e deve eseguire una prova di furtività (e una Addestrare animali se sono presenti pony o cavalli).
+          Se più di metà dei personaggi falliscono acquisiscono 1 livello indebolimento e -1 al tiro Arrivo.
+        Fallimento con margine 5 o più: ogni personaggio acquisisce 2 punti ombra, 1 livello di indebolimento e -1 tiro Arrivo."],
+  "arrivo": ["1) Tiro salvezza su saggezza per evitare 2 punti ombra",
+    "2) 1 livello di indebolimento",
+    "3) Svantaggio ai tiri di interazione sociale finchè non ne superano uno. Vantaggio all'iniziativa",
+    "4) Un'udienza o varie prove per arrivare alla destinazione con successo",
+    "5) Rimozione di 1 livello di indebolimento",
+    "6) +1 al prossimo tiro di preparazione",
+    "7) Vantaggio ai tiri di interazione sociale finchè non ne falliscono uno",
+    "8) Guadagno di Ispirazione e rimozione di 2 punti ombra"]
+}
