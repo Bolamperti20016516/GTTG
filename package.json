@@ -1,0 +1,29 @@
+{
+  "name": "gttg",
+  "version": "1.0.0",
+  "description": "greatest tool table games",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./app/index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bolamperti20016516/GTTG.git"
+  },
+  "keywords": [
+    "d&d",
+    "table",
+    "game",
+    "tools"
+  ],
+  "author": "Gabriele Bolamperti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bolamperti20016516/GTTG/issues"
+  },
+  "homepage": "https://github.com/Bolamperti20016516/GTTG#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
