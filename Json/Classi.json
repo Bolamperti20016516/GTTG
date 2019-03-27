@@ -1,7 +1,6 @@
 {
   "CacciatoreTesori": {
-    "descrizione": "Il cacciatore di tesori cerca i cimeli e tesori perduti nelle caverne, un esploratore o battipista
-      o ancora una spia o scassinatore addestrato",
+    "descrizione": "Il cacciatore di tesori cerca i cimeli e tesori perduti nelle caverne, un esploratore o battipista o ancora una spia o scassinatore addestrato",
     "dadi_vita": "1d8",
     "competenze": {
       "armi": "armi semplici, spada corta, spada larga",
@@ -22,9 +21,7 @@
     "dettagliato": "CacciatoreTesori.json"
   },
   "Guardiano": {
-    "descrizione": "I guardiani scelgono di proteggere tutti coloro che non possono farlo da soli, spesso vivono ai limiti  delle citta
-      e quindi vengono considerati come figure minacciose ed estranee. Alcuni guardiani infiammano gli animi della gente con i loro racconti
-      mentre altri si dedicano a consigliare re o figure importanti",
+    "descrizione": "I guardiani scelgono di proteggere tutti coloro che non possono farlo da soli, spesso vivono ai limiti  delle citta e quindi vengono considerati come figure minacciose ed estranee. Alcuni guardiani infiammano gli animi della gente con i loro racconti mentre altri si dedicano a consigliare re o figure importanti",
     "dadi_vita": "1d8",
     "competenze": {
       "armi": "semplici, spade larghe, spade lunghe, spade corte",
@@ -45,8 +42,7 @@
     "dettagliato": "Guardiano.json"
   },
   "Guerriero": {
-    "descrizione": "I guerrieri sono esperti combattenti, istruiti e capaci di utilizzare molte armi e armature,
-      spesso militari addestrati",
+    "descrizione": "I guerrieri sono esperti combattenti, istruiti e capaci di utilizzare molte armi e armature, spesso militari addestrati",
     "dadi_vita": "1d10",
     "competenze": {
       "armi": "semplici, da guerra",
@@ -88,8 +84,7 @@
     "dettagliato": "Sterminatore.json"
   },
   "Studioso": {
-    "descrizione": "Gli studiosi pensano che la conoscenza renda il mondo meno minaccioso, conoscere le tradizioni dei popoli
-      puo rendere piu facile ottenere favori o amici, altri sono guaritori esperti delle piante curative",
+    "descrizione": "Gli studiosi pensano che la conoscenza renda il mondo meno minaccioso, conoscere le tradizioni dei popoli puo rendere piu facile ottenere favori o amici, altri sono guaritori esperti delle piante curative",
     "dadi_vita": "1d8",
     "competenze": {
       "armi": "semplici",
@@ -110,8 +105,7 @@
     "dettagliato": "Studioso.json"
   },
   "Viandante": {
-    "descrizione": "I viandianti vagano per la terra di mezzo svelandone i segreti, alcuni sono mercanti o cacciatori
-      altri sono esuli dopo essere stati cacciati da Orchi o draghi",
+    "descrizione": "I viandianti vagano per la terra di mezzo svelandone i segreti, alcuni sono mercanti o cacciatori altri sono esuli dopo essere stati cacciati da Orchi o draghi",
     "dadi_vita": "1d10",
     "competenze": {
       "armi": "semplici, da guerra",

@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/Bolamperti20016516/GTTG#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "readline-sync": "^1.4.9"
   }
 }

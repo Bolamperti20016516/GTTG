@@ -126,8 +126,7 @@
   "DiscendenteInDisgrazia": {
     "competenze": "Storia, Tradizioni",
     "privilegio": "Portamento nobile: il suo titolo nobiliare rimane quindi nelle udienze o incontri sociali viene ancora considerato un signore e trattato come tale. Puo chiedere ospitalita a qualunque palazzo nobiliare e i suoi consigli hanno un gran peso.",
-    "tratti": "Tendono a comportarsi da aristocratici a prescindere dalla situazione e fanno del loro meglio per agile in modo giusto conoscendo sia il mondo nobiliare che comune.
-      Alternativo: Scudo Nero. Preferiscono restate nascosti senza rivelare la propria identita. Competenza in Inganno al posto di Storia o Tradizioni",
+    "tratti": "Tendono a comportarsi da aristocratici a prescindere dalla situazione e fanno del loro meglio per agile in modo giusto conoscendo sia il mondo nobiliare che comune. Alternativo: Scudo Nero. Preferiscono restate nascosti senza rivelare la propria identita. Competenza in Inganno al posto di Storia o Tradizioni",
       "qualita": ["Ardito: Un sangue potente scorre nelle sue vene e rafforza la sua risolutezza non si lascia scoraggiare facilmente",
         "Volitivo: Se ha dedicato tutto se stesso a un obiettivo lo vedrà realizzato non permetterò a nessuno di intralciarlo",
         "Educato: Uno dei motivi per cui è ben voluto a prescindere dalle circostanze lo si deve alla sua cortesia e al modo in cui si esprime",
@@ -158,8 +157,7 @@
   "EroeTormentato": {
     "competenze": "Sapienza, Intelligenza",
     "privilegio": "Precognizione: indovinelli, versi e visioni compaiono in sogno al personaggio e forniscono indizi su luoghi o persone collegate a una missione. Solitamente ricorda qualcosa collegato al sogno quando incontra per la prima volta una persona o un gruppo",
-    "tratti": "Sa cosa li attende senza capire esattamente di cosa si tratti e cerca di riconoscere i presagi a prescindere dalle conseguenze per lui o per la compagnia.
-      Alternativo: Cantastorie. Ansiosi di condividere i propri sogni con altri nella speranza di attirare che conosce gli eventi a cui fa riferimetno. Competenza in Intrattenere al posto di Indagare",
+    "tratti": "Sa cosa li attende senza capire esattamente di cosa si tratti e cerca di riconoscere i presagi a prescindere dalle conseguenze per lui o per la compagnia. Alternativo: Cantastorie. Ansiosi di condividere i propri sogni con altri nella speranza di attirare che conosce gli eventi a cui fa riferimetno. Competenza in Intrattenere al posto di Indagare",
       "qualita": ["Astuto: Possiede un fine intelletto che lo aiuta a sopportare la gravità del suo fardello",
         "Volitivo: Non permette a nessuno di frapporsi tra lui e il compimento del suo sogno qualunque sia",
         "Impaziente: Controlla a stento la sua Brama quando si presenta l'opportunità di perseguire gli scopi del sogno",
@@ -252,8 +250,7 @@
   "Mago": {
     "competenze": "Intrattenere, Rapidita di mano",
     "privilegio": "Aura di magia: presentandosi come veri magi le pesone tendono a dare il beneficio del dubbio e solitamente ascoltano cio che il personaggio dice anche senza per forza credere a tutto",
-    "tratti": "Tendono ad avere personalita estroverse e amichevoli, curiosi riguardo alla vera magia cercano di distinguere i trucchi da palcoscenico da arti arcane.
-      Alternativo: Guaritore Popolare. vengono considerati veri magi grazie a qualche parole ben detta mentre usano un impacco o medicano una ferita. Competenza in Medicina anziche Rapidita di mano.",
+    "tratti": "Tendono ad avere personalita estroverse e amichevoli, curiosi riguardo alla vera magia cercano di distinguere i trucchi da palcoscenico da arti arcane. Alternativo: Guaritore Popolare. vengono considerati veri magi grazie a qualche parole ben detta mentre usano un impacco o medicano una ferita. Competenza in Medicina anziche Rapidita di mano.",
       "qualita": ["Sveglio: Le sue esibizioni si basano sulla prontezza di Riflessi e la capacità di far vedere agli altri quello che non c'è",
         "Astuto: Usa la sua sagacia per disorientare gli avversari e coglierli con la guardia abbassata",
         "Energico: Il tuo comportamento e i suoi modi sono spesso frenetici chi osserva si chiede se gli resta il tempo di respirare",
@@ -284,8 +281,7 @@
   "GiuramentoVincolante": {
     "competenze": "Intimidire, Tradizioni",
     "privilegio": "Giuramento Solenne: il personaggio ha pronunciato un giuramento legato al suo nome adeguatamente epico e possibile da soddisfare. Puo ricevere aiuti inaspettati, ma ovviamente si crea anche dei nemici. Se il personaggio infrange il suo giuramento la sua reputazione ne sofrirebbe.",
-    "tratti": "Tende a essere coraggioso e orgoglioso fermamente convinto di poter riuscire nel compito tenendosi alla larga da luoghi o popoli che potrebbero farlo desistere.
-      Alternativo: Amico devoto. non necessita di un giuramento formale perche si tratta di un legame creato da affetto e amiciza. Un amico devoto coprira sempre le spalle e aiutera a superare ostacoli venendo ricompensati per la loro tenacia. Competenze: Persuasione invece di Intimidire o Tradizioni",
+    "tratti": "Tende a essere coraggioso e orgoglioso fermamente convinto di poter riuscire nel compito tenendosi alla larga da luoghi o popoli che potrebbero farlo desistere. Alternativo: Amico devoto. non necessita di un giuramento formale perche si tratta di un legame creato da affetto e amiciza. Un amico devoto coprira sempre le spalle e aiutera a superare ostacoli venendo ricompensati per la loro tenacia. Competenze: Persuasione invece di Intimidire o Tradizioni",
       "qualita": ["Ardito: Soddisferà il suo giuramento accettando qualunque sfida lungo la strada",
         "Volitivo: Non troverà pace fino a quando non avrà solito il voto",
         "Onorevole: Il suo Codice d'onore non finisce col suo giuramento",
@@ -378,9 +374,7 @@
   "StancoDelMondo": {
     "competenze": "Storia, Intuizione",
     "privilegio": "Amicizie di un tempo: nel corso della carriera ha conosciuto persone e creato degli amici quasi ovunque. Ma il tempo potrebbe aver cambiato totalmente questi contatti quindi bisogna fare attenzione a ricorrervi.",
-    "tratti": "Spesso cinico e disilluso ha gia visto tutto, puo sembrare felice e soddisfatto ma si percepisce una nota di insoddisfazione nella sua vita.
-      Alternativo (solo Elfi): Richiamo del mare: il personaggio sta viaggiando verso i Rifugi Oscuri per salpare e lasciare la terra di mezzo anche se sta prendendo una strada piu lunga. Sostituire Amicizie di un tempo con Sogni Marini.
-      Sogni marini: sogna spess ole rive delle Terre Imperiture e potrebbe ricevere delle voci su eventi che si devono ancora verificare da parte dei Valar",
+    "tratti": "Spesso cinico e disilluso ha gia visto tutto, puo sembrare felice e soddisfatto ma si percepisce una nota di insoddisfazione nella sua vita. Alternativo (solo Elfi): Richiamo del mare: il personaggio sta viaggiando verso i Rifugi Oscuri per salpare e lasciare la terra di mezzo anche se sta prendendo una strada piu lunga. Sostituire Amicizie di un tempo con Sogni Marini. Sogni marini: sogna spess ole rive delle Terre Imperiture e potrebbe ricevere delle voci su eventi che si devono ancora verificare da parte dei Valar",
       "qualita": ["Prudente: Ha già avuto a che fare con queste cose e non ha intenzione di commettere gli errori del passato",
         "Schietto: Non ha più tempo per le smancerie dice quello che vuole e vuole quello che dice",
         "Truce: Tutti conoscono le sue imprese la sua sola presenza basta intimidire i presenti",

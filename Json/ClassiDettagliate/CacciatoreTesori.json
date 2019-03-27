@@ -32,8 +32,7 @@
   },
   {
     "competenza": 3,
-    "privilegi": ["Allerta: il cacciatore di tesori puo eseguire una prova percezione in caso di pericoli o rilevare trappole e prendere
-      il valore piu alto rispetto percezione passiva",
+    "privilegi": ["Allerta: il cacciatore di tesori puo eseguire una prova percezione in caso di pericoli o rilevare trappole e prendere il valore piu alto rispetto percezione passiva",
       "Attacco Furtivo: 4d6"]
   },
   {
@@ -53,8 +52,7 @@
   },
   {
     "competenza": 4,
-    "privilegi": ["Fortuna del vincente: una volta per riposo lungo il cacciatore ha un fortuna in un azione che fa con un effetto
-      a discrezione del maestro del sapere",
+    "privilegi": ["Fortuna del vincente: una volta per riposo lungo il cacciatore ha un fortuna in un azione che fa con un effetto a discrezione del maestro del sapere",
       "Attacco Furtivo: 6d6"]
   },
   {
@@ -99,55 +97,39 @@
   },
   {
     "competenza": 6,
-    "privilegi": ["Colpo di Fortuna: una volta ogni riposo lungo o breve il cacciatore puo passare un attacco fallire,
-      ottenere un 20 in una prova di caratteristica o salvezza",
+    "privilegi": ["Colpo di Fortuna: una volta ogni riposo lungo o breve il cacciatore puo passare un attacco fallire, ottenere un 20 in una prova di caratteristica o salvezza",
       "Attacco Furtivo: 10d6"]
   }],
   "Agente": [{
     "livello": 3,
     "privilegi": ["Competenze bonus: ottiene competenza con kit camuffamento, kit falsario e abilita tradizioni",
-      "Segreti Svelati: se spia un nemico per 10 minuti senza essere visto ottiene uno tra i seguenti benefici;
-        indizio o destinazione del nemico.
-        scorgere un punto debole del nemico ottenendo vantaggio sul primo attacco contro quel tipo di nemici.
-        fino al prossimo riposo breve +1 CA contro quel tipo di nemici.
-        fino al prossimo riposo breve vantaggio su furtivita contro quel tipo di nemici.
-        descrivere attentamente tutto del nemico da offrire vantaggio su Sapienza e Tradizioni degli alleati per scoprire altro."]
+      "Segreti Svelati: se spia un nemico per 10 minuti senza essere visto ottiene uno tra i seguenti benefici; indizio o destinazione del nemico. scorgere un punto debole del nemico ottenendo vantaggio sul primo attacco contro quel tipo di nemici. fino al prossimo riposo breve +1 CA contro quel tipo di nemici. fino al prossimo riposo breve vantaggio su furtivita contro quel tipo di nemici. descrivere attentamente tutto del nemico da offrire vantaggio su Sapienza e Tradizioni degli alleati per scoprire altro"]
   },
   {
     "livello": 9,
-    "privilegi": ["Parole Enigmatiche: dopo 10 minuti a convincere una creatura delle sue buone intenzioni la creatura diventa affascinata
-      se non supera un tiro salvezza Saggezza contro CD 8 + Carisca + bonus competenza. lo stato affascinato rimane fino a che il
-      cacciatore di tesori non da motivo di dubitare della sua sincerita o completa un riposo lungo.
-      un altra creatura ha svantaggio a convincere quella affascinata in presenza del cacciatore di tesori"]
+    "privilegi": ["Parole Enigmatiche: dopo 10 minuti a convincere una creatura delle sue buone intenzioni la creatura diventa affascinata se non supera un tiro salvezza Saggezza contro CD 8 + Carisca + bonus competenza. lo stato affascinato rimane fino a che il cacciatore di tesori non da motivo di dubitare della sua sincerita o completa un riposo lungo. un altra creatura ha svantaggio a convincere quella affascinata in presenza del cacciatore di tesori"]
   },
   {
     "livello": 13,
-    "privilegi": ["Strategia di Uscita: si accorge immediatamente di tutti i modi per allontanarsi da una nuova localita.
-      Ha vantaggio in qualunque prova di caratteristica con lo scopo di fuggire"]
+    "privilegi": ["Strategia di Uscita: si accorge immediatamente di tutti i modi per allontanarsi da una nuova localita. Ha vantaggio in qualunque prova di caratteristica con lo scopo di fuggire"]
   },
   {
     "livello": 17,
-    "privilegi": ["Parole Irresistibili: impartisce comandi a qualsiasi creatura che ha affascinato con Parole Enigmatiche.
-      Se gli ordini sono messi in dubbio o controproducenti per la creatura questa ottiene un tiro salvazza con la CD delle Parole Enigmatiche.
-      utilizzare Parole Irresistibili puo rappresentare un misfatto"]
+    "privilegi": ["Parole Irresistibili: impartisce comandi a qualsiasi creatura che ha affascinato con Parole Enigmatiche. Se gli ordini sono messi in dubbio o controproducenti per la creatura questa ottiene un tiro salvazza con la CD delle Parole Enigmatiche. utilizzare Parole Irresistibili puo rappresentare un misfatto"]
   }],
   "Scassinatore": [{
     "livello": 3,
     "privilegi": ["Ombra delle mie tasche: ottiene un solo punto ombra sul misfatto furto invece di 3",
       "Sgraffignare: quando esegue un attacco furtivo invece di infliggere danni puo eseguire con successo una prova di rapidita di mano",
-      "Sapienza dei Tesori: ogni volta che il cacciatore di tesori viene messo al corrente di una particolare localita
-      o si imbatte in essa puo chiedere al maestro del sapere 3 informazioni al riguardo, generalmente vere ma non precise"]
+      "Sapienza dei Tesori: ogni volta che il cacciatore di tesori viene messo al corrente di una particolare localita o si imbatte in essa puo chiedere al maestro del sapere 3 informazioni al riguardo, generalmente vere ma non precise"]
   },
   {
     "livello": 9,
-    "privilegi": ["Nascondersi nell Ombra: se ci sono zone in ombra il cacciatore ha un azione bonus per nascondersi
-      anche quando altre creature conoscono la sua presenza. Gli avversari possono effettuare una prova di Percezione
-      con CD contro la furtivita del cacciatore"]
+    "privilegi": ["Nascondersi nell Ombra: se ci sono zone in ombra il cacciatore ha un azione bonus per nascondersi anche quando altre creature conoscono la sua presenza. Gli avversari possono effettuare una prova di Percezione con CD contro la furtivita del cacciatore"]
   },
   {
     "livello": 13,
-    "privilegi": ["Guardingo: +5 Percezione passiva nel cercare trappole o imboscate.
-      il cacciatore puo usare il suo risultato aumentato al posto di una nuova prova caratteristica"]
+    "privilegi": ["Guardingo: +5 Percezione passiva nel cercare trappole o imboscate. il cacciatore puo usare il suo risultato aumentato al posto di una nuova prova caratteristica"]
   },
   {
     "livello": 17,
